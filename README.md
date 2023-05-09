@@ -10,7 +10,7 @@ LapPi 2.0 is available in 2 variants - **_Assembled_** and **_Unassembled_**.
 
 You can checkout Step by Step Guide for **_Unassembled version of LapPi 2.0_ [here](https://github.com/sbcshop/LapPi_2.0_Unassembled)**
 
-### What includes in LapPi 2.0
+### What includes in LapPi 2.0 Assembled Version
 <img src="https://github.com/sbcshop/LapPi_2.0_Assembled/blob/main/images/LapPi_includes.jpg" width="576" height="324" >
 
 **Note:** _Battery is not included!_
