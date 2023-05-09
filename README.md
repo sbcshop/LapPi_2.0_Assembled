@@ -15,6 +15,8 @@ You can checkout Step by Step Guide for **_Unassembled version of LapPi 2.0_ [he
 
 **Note:** _Battery is not included!_
 
-### Step 1: Setup Raspberry Pi
+### Setup Raspberry Pi
    Follow the latest Online [Raspberry Pi Setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
    Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Documents/Setting%20up%20your%20Raspberry%20Pi.pdf) to download a pdf of how to set up Pi.
+   
+  There you go once Raspberry Pi setup, then you are ready to start working on your very own Pi laptop
