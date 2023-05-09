@@ -10,6 +10,8 @@ LapPi 2.0 is available in 2 variants - assembled and [unassembled](https://githu
 
 You can checkout [Step by Step Guide for Unassembled version of LapPi 2.0](https://github.com/sbcshop/LapPi_2.0_Unassembled)
 
+### What includes in LapPi 2.0
+<img src="https://github.com/sbcshop/LapPi_2.0_Assembled/blob/main/images/LapPi_includes.jpg" width="733" height="512" >
 ### Step 1: Setup Raspberry Pi
    Follow the latest Online [Raspberry Pi Setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
    Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Documents/Setting%20up%20your%20Raspberry%20Pi.pdf) to download a pdf of how to set up Pi.
