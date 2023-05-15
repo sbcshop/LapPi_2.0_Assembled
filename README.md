@@ -23,7 +23,11 @@ You can checkout Step by Step Guide for **_Unassembled version of LapPi 2.0_ [he
 
 ## Related Products
    * [UPS HAT (Uninterrupted Power Supply)](https://shop.sb-components.co.uk/products/ups-hat-for-raspberry-pi?_pos=4&_sid=f735813a1&_ss=r) -Power backup to save the Raspberry Pi during power outages or unintentional shutdowns
+   ![UPS_HAT_Pi](https://cdn.shopify.com/s/files/1/1217/2104/products/UninterruptiblePowerSupplyHATForRaspberryPi.png?v=1673355462&width=300)
+   
    * [Raspberry Pi 4 Model B 4GB kit](https://shop.sb-components.co.uk/products/raspberry-pi-4-model-b-4gb-kit?_pos=6&_sid=1e4720b41&_ss=r) - the ultimate solution for all your DIY computing needs! This kit comes packed with all the essential components you need to start building your own projects right away.
+   ![SquaryFi](https://cdn.shopify.com/s/files/1/1217/2104/products/2_12d19ffa-bcda-47bf-8ea9-bb76fc40aee3.png?v=1670307456&width=300)
+   
  
 ## Product License
 
